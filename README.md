@@ -10,9 +10,11 @@ University of Manchester · Dissertation, 2024–25 · Samarth Sharma
 
 | | |
 |:--|:--|
-| **Dissertation** | [`dissertation.pdf`](./dissertation.pdf) |
-| **Presentation slides** | [`slides.pptx`](./slides.pptx) |
-| **Presentation video** | [`presentation-video.mp4`](./presentation-video.mp4) |
+| **Dissertation** | Available on request |
+| **Presentation slides** | Available on request |
+| **Presentation video** | Available on request |
+
+To request any of these, [message me on LinkedIn](https://www.linkedin.com/in/samarth-sharma-120858242/) or [email me](https://mail.google.com/mail/?view=cm&to=samarth841sharma@gmail.com&su=Dissertation%20materials%20request).
 
 ---
 
